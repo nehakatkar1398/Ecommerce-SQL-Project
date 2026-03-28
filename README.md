@@ -81,7 +81,7 @@ The project is built using three relational tables:
 [![Monthly Trend](images/monthly_trend.png)](https://github.com/nehakatkar1398/Ecommerce-SQL-Project/blob/e96446e4ca92cdeaee1db2d15f136edcef9f3f56/Image/Monthly%20Sales%20Trend.png)
 
 # 🔹 Order Status Analysis
-![Order Status](images/order_status.png)
+[![Order Status](images/order_status.png)](https://github.com/nehakatkar1398/Ecommerce-SQL-Project/blob/fd049cd3e0fcad42644a46aa8bd508fed78ee265/Image/Total%20Revenue%20by%20Order%20status.png)
 
 # 🔹 Payment Method Analysis
 ![Payment Method](images/payment_method.png)
