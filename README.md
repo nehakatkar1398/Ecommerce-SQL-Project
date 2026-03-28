@@ -110,5 +110,3 @@ It reflects the ability to work with structured data and solve real-world busine
 # ⭐ Author
 Neha Katkar
 
-**Neha Katkar**
-Aspiring Data Analyst
