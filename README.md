@@ -78,7 +78,7 @@ The project is built using three relational tables:
 [![Top Customers](images/top_customers.png)](https://github.com/nehakatkar1398/Ecommerce-SQL-Project/blob/e96446e4ca92cdeaee1db2d15f136edcef9f3f56/Image/Top%203%20products%20by%20revenue.png)
 
 # 🔹 Monthly Sales Trend
-![Monthly Trend](images/monthly_trend.png)
+[![Monthly Trend](images/monthly_trend.png)](https://github.com/nehakatkar1398/Ecommerce-SQL-Project/blob/e96446e4ca92cdeaee1db2d15f136edcef9f3f56/Image/Monthly%20Sales%20Trend.png)
 
 # 🔹 Order Status Analysis
 ![Order Status](images/order_status.png)
