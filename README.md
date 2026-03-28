@@ -69,7 +69,7 @@ The project is built using three relational tables:
 [![Table Structure](images/table_structure.png)](https://github.com/nehakatkar1398/Ecommerce-SQL-Project/blob/cc8de27a4b95ea43cd96c50458467fce168c0be7/Image/Custemers%20Table%20Structure.png)
 
 # 🔹 Table Relationships (Joins)
-![Joins](images/joins.png)
+[![Joins](images/joins.png)](https://github.com/nehakatkar1398/Ecommerce-SQL-Project/blob/4287f43286914ee52df15b99b7342713508d4dc5/Image/Inner%20Join%20.png)
 
 # 🔹 Revenue by Product
 ![Revenue by Product](images/revenue_by_product.png)
