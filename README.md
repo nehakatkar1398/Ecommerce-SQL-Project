@@ -65,8 +65,8 @@ The project is built using three relational tables:
 * Payment method analysis shows customer preference patterns
 
 # 📸 Project Screenshots
-# 🔹 Table Structure
-![Table Structure](images/table_structure.png)
+# 🔹 Table Structure (example - Customers table)
+[![Table Structure](images/table_structure.png)](https://github.com/nehakatkar1398/Ecommerce-SQL-Project/blob/cc8de27a4b95ea43cd96c50458467fce168c0be7/Image/Custemers%20Table%20Structure.png)
 
 # 🔹 Table Relationships (Joins)
 ![Joins](images/joins.png)
