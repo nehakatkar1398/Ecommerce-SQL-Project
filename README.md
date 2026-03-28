@@ -84,7 +84,7 @@ The project is built using three relational tables:
 [![Order Status](images/order_status.png)](https://github.com/nehakatkar1398/Ecommerce-SQL-Project/blob/fd049cd3e0fcad42644a46aa8bd508fed78ee265/Image/Total%20Revenue%20by%20Order%20status.png)
 
 # 🔹 Payment Method Analysis
-![Payment Method](images/payment_method.png)
+[![Payment Method](images/payment_method.png)](https://github.com/nehakatkar1398/Ecommerce-SQL-Project/blob/61a05f432af46a38d3caac71a76b2493bc3b0579/Image/orders%20and%20revenue%20by%20payment%20method.png)
 
 
 # ▶️ How to Run This Project
